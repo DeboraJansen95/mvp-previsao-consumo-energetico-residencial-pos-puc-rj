@@ -76,7 +76,7 @@ GitHub
 mvp-previsao-consumo-energetico-residencial-pos-puc-rj
 ├── README.md
 ├── data/
-│   └── household_power_consumption.txt
+│   └── individual+household+electric+power+consumption.zip
 └── notebook/
     └── mvp_previsao_consumo.ipynb
 
