@@ -1,15 +1,15 @@
-#Previsão de Consumo Energético Residencial
+# Previsão de Consumo Energético Residencial
 
 MVP — Pós‑Graduação em Ciência de Dados e Analytics | PUC‑Rio  
 Autora: Debora Jansen
 
 Este projeto desenvolve um modelo de previsão para o consumo energético residencial utilizando técnicas de regressão aplicadas a séries temporais. O objetivo é demonstrar domínio do fluxo completo de um projeto de Machine Learning, desde a análise exploratória até a avaliação dos modelos e discussão dos resultados. O dataset utilizado é proveniente do UCI Machine Learning Repository, garantindo reprodutibilidade e acesso público.
 
-#Objetivo
+# Objetivo
 
 Construir um MVP capaz de prever o consumo energético residencial com base em dados históricos, avaliando diferentes modelos de regressão e identificando a abordagem mais eficaz para capturar padrões temporais do consumo.
 
-#Metodologia
+# Metodologia
 
 **1. Coleta e Carregamento dos Dados**
 Dataset oficial do UCI Machine Learning Repository
@@ -49,7 +49,7 @@ R²
 
 Comparação entre modelos e análise das previsões
 
-#Dados Utilizados
+# Dados Utilizados
 
 **Fonte:** UCI Machine Learning Repository
 **Arquivo:** individual+household+electric+power+consumption.zip  
@@ -57,7 +57,7 @@ Comparação entre modelos e análise das previsões
 **Variável-alvo:**
 Global_active_power (consumo energético em kW)
 
-#Tecnologias e Ferramentas
+# Tecnologias e Ferramentas
 
 Python
 
@@ -71,7 +71,7 @@ Google Colab
 
 GitHub
 
-#Estrutura do Repositório
+# Estrutura do Repositório
 
 mvp-previsao-consumo-energetico-residencial-pos-puc-rj
 ├── README.md
@@ -80,7 +80,7 @@ mvp-previsao-consumo-energetico-residencial-pos-puc-rj
 └── notebook/
     └── mvp_previsao_consumo.ipynb
 
-#Referências
+# Referências
 
 UCI Machine Learning Repository — Fonte original dos dados
 
